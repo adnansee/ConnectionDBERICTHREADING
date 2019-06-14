@@ -1,0 +1,11 @@
+
+rsquid:S2068"T'passwd' detected in this expression, review this potentially hard-coded credential.(ÕÍ€Ê8—äÊ¬´-
+>squid:S2068" Remove this hard-coded password.(ÙÃ‹Ÿ8—äÊ¬´-
+esquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Æƒ¶Ï8—äÊ¬´-
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÙÃ‹Ÿ8—äÊ¬´-
+esquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ŠÓ…ï8—äÊ¬´-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ŠÁØ8—äÊ¬´-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÏûÔÿÿÿÿÿ8—äÊ¬´-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8—äÊ¬´-
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—äÊ¬´-
